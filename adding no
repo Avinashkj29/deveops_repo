@@ -1,0 +1,13 @@
+#!/bin/bash
+echo enter the no
+read a
+echo enter another no
+read b
+echo can i add or sub or div or mul
+read i
+for i in 
+add ) a + b
+sub ) a - b
+div ) a / b
+mul ) a * b
+* ) invalid operand
